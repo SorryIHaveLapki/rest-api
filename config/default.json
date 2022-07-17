@@ -1,0 +1,5 @@
+{
+    "port": 4000,
+    "jwtSecret": "mark learn react", 
+    "mongoUri": "mongodb+srv://mark:VvoHZeVy1e66CW3B@cluster0.tkfarz0.mongodb.net/?retryWrites=true&w=majority"
+}
